@@ -20,5 +20,5 @@ Hola mi nombre es Carlos Perea
 - Se utiliza cuando se tiene una acción y una recompensa.
 - El objetivo es que el modelo aprenda a tomar la acción correcta para obtener la recompensa
 
-#### Ejemplo
+
 

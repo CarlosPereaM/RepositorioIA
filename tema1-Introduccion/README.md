@@ -20,5 +20,13 @@ Hola mi nombre es Carlos Perea
 - Se utiliza cuando se tiene una acción y una recompensa.
 - El objetivo es que el modelo aprenda a tomar la acción correcta para obtener la recompensa
 
+# Etapas de la IA
 
+## Inteligencia Artificial Estrecha (ANI) o Devil
+- Se utiliza para realizar tareas específicas y repetitivas como clasificar imágenes, texto, voz, texto jugar juegos. 
 
+## Inteligencia Artificial General (AGI) Fuerte
+- Se utiliza para realizar tareas complejas y abstractas como razonar, aprender, resolver. En esta etapa la IA alcanza las capacidades cognitivas humanas siendo capaz de realizar cualquier tarea intelectual
+
+## Super Intelegia Artificial (ASI)
+- Se utiliza para realizar tareas que superen las capacidades humanas inclyendo la creatividad sabiduria general y habibilidades sociales 
